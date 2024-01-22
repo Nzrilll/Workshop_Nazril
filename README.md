@@ -6,7 +6,7 @@ Nama : Nazril Azami Rabbani
 
 ### Artificial Inteligence Programing Training
 
-- Perintah-Perintah Git Baseg
+- Perintah-Perintah Git Base
 
 **$ mkdir->membuat folder**
 
