@@ -8,23 +8,23 @@ Nama : Nazril Azami Rabbani
 
 - Perintah-Perintah Git Base
 
-"""mkdir->membuat folder"""
+**$ mkdir->membuat folder"""
 
-"""echo->membuat file"""
+**$ echo->membuat file"""
 
-"""cd->berpindah folder"""
+**$ cd->berpindah folder"""
 
-"""ls->menampilkan folder/file didalam komputer"""
+**$ ls->menampilkan folder/file didalam komputer"""
 
-"""nano->test editor di git base"""
+**$ nano->test editor di git base"""
 
 - Perintah-Perintah Git
 
-"""git add . ->menambah file"""
+**$ git add . ->menambah file"""
 
-"""git commit -m "pesan" ->membuat komen/pesan"""
+**$ git commit -m "pesan" ->membuat komen/pesan"""
 
-"""git push -u origin main->mengupload folder/file ke github"""
+**$ git push -u origin main->mengupload folder/file ke github"""
 
 ***Good Luck***
 
